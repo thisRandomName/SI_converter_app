@@ -9,9 +9,9 @@ document.getElementById("miles").addEventListener("input",function(e){
     //get the input event value:
     let milesinput=e.target.value;
 
-    //convert to kilograms:
+    //convert to meters:
     document.getElementById("m").innerHTML=milesinput*1609.344;
-    //convert to grams:
+    //convert to km:
     document.getElementById("km").innerHTML=milesinput*1.609344;
 
 
