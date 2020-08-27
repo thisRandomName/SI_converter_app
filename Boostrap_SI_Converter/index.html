@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bootstrap Converter</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container" >
+        <div class="row">
+            <div class="col-md-6 offset-md-3">
+                <h3 class="display-4 text-left mt-1 titl">UNIT CONVERSION</h3>
+                <div class="card" style="width: 470px;">
+                    <img class="card-img-top" src="calcul.jpg" alt="Calculations">
+                    <div class="card-body">
+                      <h5 class="card-title">Welcome !!</h5>
+                      <p class="card-text">Convert to SI units:</p>
+                    </div>
+                    <div class="dropdown">
+                        <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" >
+                          Select 
+                        </button>
+                        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                          <a class="dropdown-item" href="weight.html">Weight converter</a>
+                          <a class="dropdown-item" href="temperature.html">Temperature converter</a>
+                          <a class="dropdown-item" href="mdistance.html">Distance converter</a>
+                        </div>
+                      </div>
+                </div>
+                
+            </div>
+        </div>
+  
+    </div> 
+
+ <script src="converter.js" ></script>
+</body>
+</html>

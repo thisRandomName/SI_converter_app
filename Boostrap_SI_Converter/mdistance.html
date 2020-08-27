@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Miles to meters</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container" >
+        <div class="row">
+            <div class="col-md-6 offset-md-3">
+                <h1 class="display-4 text-center mt-3 titl">DISTANCE CONVERTER</h1>
+                <form>
+                    <div class="form-group">
+                        <input id="miles" type="number" class="form-control form-control-lg" placeholder="Enter Miles">
+                    </div>
+                </form>
+                <div id="result2">
+                    <div class="card bg-primary mb-2">
+                        <div class="card-body">
+                            <h4>Meters:</h4>
+                            <div id="m"></div>
+  
+                        </div>  
+                    </div>
+                    <div class="card bg-success">
+                      <div class="card-body">
+                          <h4>Kilometers:</h4>
+                          <div id="km"></div>
+                      </div>  
+                  </div>
+  
+                </div>
+            </div>
+        </div>
+        <br><br><br><br><br><br><br><br><br>
+        <a href="index.html" class="btn btn-secondary" role="button"> Go Back</a>
+    </div> 
+   
+ <script src="dconvert.js" ></script>   
+</body>
+</html>
