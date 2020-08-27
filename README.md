@@ -6,6 +6,6 @@ A simple app for conversion to SI units
 Created using Bootstrap 4 and JavaScript
 
 In the International System of Units (SI) :
-*Weight is measured in kilograms (kg)*
-*Temperature is measured in Kelvin degrees (K)*
-*Distance(or length) is measured in meters (m)*
+- *Weight is measured in kilograms (kg)*
+- *Temperature is measured in Kelvin degrees (K)*
+- *Distance(or length) is measured in meters (m)*
