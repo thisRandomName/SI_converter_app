@@ -10,3 +10,14 @@ A simple app for conversion to SI units
  *[Typically: weight=(mass) * g(which is a constant) and as a result in everyday-life weight is considered to be measured in kg too]*
 - *Temperature is measured in Kelvin degrees (K)*
 - *Distance(or length) is measured in meters (m)*
+
+ηξηγςξιξςοιοπεςιποςετριαλαλαλριλαλροοοοοοοοοοοοοο
+\
+~~εχω ενα μικρακι ελεφαντακι 420 κιλα~~\
+***τρωει 7 κασονια μακαρονια***
+\
+> κι ολο καμει τουμπες και γελα\
+[χα χα χααααααααααααααααααααα λινκ]
+
+
+
