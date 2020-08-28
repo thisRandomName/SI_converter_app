@@ -24,6 +24,6 @@ A simple app for conversion to SI units
 3. ελεφαντακι
 
 - [ ] 420 κιλααααααα :+1:
-- [χ] :vampire:
+- [x] :vampire:
 
 
